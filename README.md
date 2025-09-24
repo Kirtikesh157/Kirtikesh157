@@ -23,5 +23,5 @@
 ---
 
 ## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-link)  
+[![LinkedIn](https://www.linkedin.com/in/kirtikesh-bhoyar-a5331a284)  
+[![Twitter]()  
