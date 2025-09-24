@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kirtikesh  
+# Hi 👋, I'm Kirtikesh Bhoyar
 🚀 Data Science & Python Enthusiast | 📊 Future Analyst | 💡 Lifelong Learner  
 
 ---
