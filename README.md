@@ -1,5 +1,5 @@
-# Hi 👋, I'm Kirtikesh Bhoyar
-🚀 Data Science & Python Enthusiast | 📊 Future Analyst | 💡 Lifelong Learner  
+# Hi 👋, I'm Kirtikesh Bhoyar  
+🚀 Data Science & Python Enthusiast | 💻 SAP-ABAP Developer | 📊 Future Analyst | 💡 Lifelong Learner  
 
 ---
 
@@ -15,13 +15,14 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🌱 I’m currently learning **Data Science with Python Gen-AI **  
-- 💬 Ask me about **Python, Pandas, Numpy, Seaborn**  
-- 🎯 Goal: To become a **Data Analyst / Data Scientist**  
+- 🌱 I’m currently learning **Data Science, Python & SAP-ABAP**  
+- 💬 Ask me about **Python, Pandas, Numpy, Seaborn, ABAP basics**  
+- 🎯 Goal: To become a **SAP-ABAP Developer & Data Analyst**  
 - ⚡ Fun fact: I love to explore tech with some chai ☕  
 
 ---
 
 ## 🌐 Connect with me  
-[![LinkedIn](https://www.linkedin.com/in/kirtikesh-bhoyar-a5331a284)  
-[![Twitter]()  
+
+[<img src="https://img.icons8.com/fluency/48/linkedin.png" width="38"/>](https://www.linkedin.com/in/kirtikesh-bhoyar-a5331a284)  
+[<img src="https://img.icons8.com/fluency/48/twitter.png" width="38"/>](https://x.com/KirtikeshB60856)  
