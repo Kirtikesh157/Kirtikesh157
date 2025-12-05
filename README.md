@@ -10,14 +10,14 @@
 ---
 
 ## 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirtikesh157&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirtikesh157&show&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 👨‍💻 About Me  
 - 🌱 I’m currently learning **Data Science, Python & SAP-ABAP**  
 - 💬 Ask me about **Python, Pandas, Numpy, Seaborn, ABAP basics**  
-- 🎯 Goal: To become a **SAP-ABAP Developer & Data Analyst**  
+- 🎯 Goal: To become a ** Data Analyst,/ Data Scientist & SAP-ABAP Developer**  
 - ⚡ Fun fact: I love to explore tech with some chai ☕  
 
 ---
