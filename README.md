@@ -9,17 +9,22 @@
 
 ---
 
-## 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirtikesh157&show&layout=compact&theme=tokyonight)  
+## 👨‍💻 About Me  
+- 🌱 I’m currently learning **Data Science, Python & SAP-ABAP**
+- 👯 I’m looking to collaborate on **Open Source & Cool Side Projects**    
+- 💬 Ask me about **Python, Data science And ABAP **  
+- 🎯 Goal: To become a ** Data Analyst,/ Data Scientist & SAP-ABAP Developer**
+- 📫 Reach me at: **kirtikeshbhoyar15@gmail.com**
+- ⚡ Fun fact: I love solving problems & explore tech with some chai ☕  
 
 ---
 
-## 👨‍💻 About Me  
-- 🌱 I’m currently learning **Data Science, Python & SAP-ABAP**  
-- 💬 Ask me about **Python, Pandas, Numpy, Seaborn, ABAP basics**  
-- 🎯 Goal: To become a ** Data Analyst,/ Data Scientist & SAP-ABAP Developer**  
-- ⚡ Fun fact: I love to explore tech with some chai ☕  
 
+### 🚀 My Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,power BI,machine learning,html,css,git,github,vscode,jupyter notebook" />
+</p>
 ---
 
 ## 🌐 Connect with me  
