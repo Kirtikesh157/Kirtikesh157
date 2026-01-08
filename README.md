@@ -1,5 +1,5 @@
 # Hi 👋, I'm Kirtikesh Bhoyar  
-🚀 Data Science & Python Enthusiast | 💻 SAP-ABAP Developer | 📊 Future Analyst | 💡 Lifelong Learner  
+🚀 Data Science Enthusiast | 💻 SAP-ABAP Developer | 📊 Future Analyst | 💡 Lifelong Learner  
 
 ---
 
