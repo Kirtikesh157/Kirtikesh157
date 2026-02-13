@@ -4,8 +4,8 @@
 ---
 
 ## 🔥 My GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kirtikesh157&theme=radical)  
-![Kirtikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirtikesh157&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Kirtikesh157&theme=radical&cache_seconds=86400)
+![Kirtikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirtikesh157&show_icons=true&theme=radical&cache_seconds=86400)
 
 ---
 
@@ -23,8 +23,9 @@
 ### 🚀 My Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,power BI,machine learning,html,css,git,github,vscode,jupyter notebook" />
+  <img src="https://skillicons.dev/icons?i=python,sql,powerbi,html,css, SAP ABAP,git,github,vscode,jupyter&perline=5" />
 </p>
+
 ---
 
 ## 🌐 Connect with me  
