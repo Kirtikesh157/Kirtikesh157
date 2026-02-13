@@ -10,10 +10,10 @@
 </p>
 
 ---
+## 🔥 My GitHub Stats
 
-## 🔥 My GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=Kirtikesh157&theme=radical&cache_seconds=86400)
-![Kirtikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirtikesh157&show_icons=true&theme=radical&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=kirtikesh157\&theme=radical\&cache_seconds=86400)
+![Kirtikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirtikesh157\&show_icons=true\&theme=radical\&cache_seconds=86400)
 
 ---
 
