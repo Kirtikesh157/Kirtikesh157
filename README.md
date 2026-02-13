@@ -1,5 +1,13 @@
-# Hi 👋, I'm Kirtikesh Bhoyar  
-🚀 Data Science Enthusiast | 💻 SAP-ABAP Developer | 📊 Future Analyst | 💡 Lifelong Learner  
+
+
+<!-- Profile README for Kirtikesh Bhoyar -->
+
+<h1 align="center">Hi 👋, I'm Kirtikesh Bhoyar </h1>
+<h3 align="center">🚀 Data Scientist | 💻 SAP-ABAP Developer  | AI/ML Enthusiast | Open Source Contributor</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Scientist;SAP+ABAP+Developer;AI+Engineer+in+Making;Open+Source+Contributor;Love+to+Build+Cool+Projects" alt="Typing Animation" />
+</p>
 
 ---
 
@@ -18,17 +26,56 @@
 - ⚡ Fun fact: I love solving problems & explore tech with some chai ☕  
 
 ---
-
-
-### 🚀 My Tech Stack  
+### 🚀 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,powerbi,html,css, SAP ABAP,git,github,vscode,jupyter&perline=5" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge\&logo=sap\&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-Programming-blue?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge)
+
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge\&logo=pycharm\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=black)
+
 </p>
+
+
+---
+### 📂 Featured Projects  
+
+| Project | Description | Tech Stack|
+|-------- |-------------|-----------|
+| **Predection** | House Price Predection | Python + Machine Learning |
+| **Predection** | Car Price Predection | Python + Machine Learning |
+| **Analysis** | Olympic Data Analysis | Python + Streamlit |
 
 ---
 
-## 🌐 Connect with me  
 
-[<img src="https://img.icons8.com/fluency/48/linkedin.png" width="38"/>](https://www.linkedin.com/in/kirtikesh-bhoyar-a5331a284)  
-[<img src="https://img.icons8.com/fluency/48/twitter.png" width="38"/>](https://x.com/KirtikeshB60856)  
+## 🌐 Connect with me
+
+<p>
+
+<a href="https://www.linkedin.com/in/kirtikesh-bhoyar-a5331a284" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/linkedin.png" width="32" style="vertical-align:middle;"/> 
+  <span style="vertical-align:middle; font-size:16px;">LinkedIn</span>
+</a>
+
+<br><br>
+
+<a href="https://x.com/KirtikeshB60856" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/twitter.png" width="32" style="vertical-align:middle;"/> 
+  <span style="vertical-align:middle; font-size:16px;">Twitter</span>
+</a>
+
+</p>
