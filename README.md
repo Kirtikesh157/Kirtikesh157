@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Data Scientist | 💻 SAP-ABAP Developer  | AI/ML Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Scientist;SAP+ABAP+Developer;AI+Engineer+in+Making;Open+Source+Contributor;Love+to+Build+Cool+Projects" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Open+Source+Contributor;Love+to+Build+Cool+Projects;Love+playing+with+data;AI+Making;Data+Scientist;SAP+ABAP+Developer" alt="Typing Animation" />
 </p>
 
 ---
