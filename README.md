@@ -61,21 +61,7 @@
 
 ---
 
-
 ## 🌐 Connect with me
 
-<p>
-
-<a href="https://www.linkedin.com/in/kirtikesh-bhoyar-a5331a284" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/linkedin.png" width="32" style="vertical-align:middle;"/> 
-  <span style="vertical-align:middle; font-size:16px;">LinkedIn</span>
-</a>
-
-<br><br>
-
-<a href="https://x.com/KirtikeshB60856" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/twitter.png" width="32" style="vertical-align:middle;"/> 
-  <span style="vertical-align:middle; font-size:16px;">Twitter</span>
-</a>
-
-</p>
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KirtikeshB60856)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirtikesh-bhoyar-a5331a284/)
