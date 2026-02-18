@@ -55,8 +55,9 @@
 
 | Project | Description | Tech Stack|
 |-------- |-------------|-----------|
-| **Predection** | House Price Predection | Python + Machine Learning |
-| **Predection** | Car Price Predection | Python + Machine Learning |
+| **Model** | House Price Predection | Python + Machine Learning |
+| **Model** | Car Price Predection | Python + Machine Learning |
+| **Model** | AI Content Moderation System| Python + Machine Learning + NLP + Flask + HTML + CSS |
 | **Analysis** | Olympic Data Analysis | Python + Streamlit |
 
 ---
