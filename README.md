@@ -16,7 +16,7 @@
 A passionate Data Scientist & SAP ABAP Developer focused on building efficient and user-centric applications.
 
 - 💻 **Core Stack:** Python, MySql, ABAP
-- 🎨 **Design:** UI/UX Prototyping with  Canva
+- 🎨 **Design:** UI/UX Prototyping with Lovable and Canva
 - 🌱 **Exploring:** Rust & Scalable Architectures
 - 🤝 **Open to:** Collaborating on innovative, end-to-end projects.
 - 📫 **Contact me:** kirtikeshbhoyar15@gmail.com
