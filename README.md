@@ -1,11 +1,10 @@
-[![20230523-132721.jpg](https://i.postimg.cc/4dyB4kDw/20230523-132721.jpg)](https://postimg.cc/JDwbKg4B)
-
+[![kittu-banner-3264x539-high.jpg](https://i.postimg.cc/kX7QMRTJ/kittu-banner-3264x539-high.jpg)](https://postimg.cc/9zNRJ03K)
 <!-- Profile README for Kirtikesh Bhoyar -->
 
 <h1 align="center">Hi 👋, I'm Kirtikesh Bhoyar </h1>
 <h3 align="center">🚀 Data Scientist | 💻 SAP-ABAP Developer  | AI/ML Enthusiast | Open Source Contributor</h3>
 
-<h3 align="center">Code As Codegeass</h3>
+<h3 align="center">Code with Kittu☺</h3>
 
 <br/>
 <div>
