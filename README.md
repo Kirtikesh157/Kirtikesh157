@@ -50,9 +50,10 @@ A passionate Data Scientist & SAP ABAP Developer focused on building efficient a
 
 - 🌱 I’m currently learning **Data Science, Python & SAP-ABAP**
 - 👯 I’m looking to collaborate on **Open Source & Cool Side Projects**    
-- 💬 Ask me about **Python, Data science And ABAP **  
-- 🎯 Goal: To become a ** Data Analyst,/ Data Scientist & SAP-ABAP Developer**
+- 💬 Ask me about **Python, Data science And ABAP**  
+- 🎯 Goal: To become a **Data Analyst,/ Data Scientist & SAP-ABAP Developer**
 - 📫 Reach me at: **kirtikeshbhoyar15@gmail.com**
+- 🌟 *Kirtikesh* by name, *Kittu* by vibe - Call me *Kittu*
 - ⚡ Fun fact: I love solving problems & explore tech with some chai ☕  
 
 ---
