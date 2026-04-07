@@ -4,7 +4,9 @@
 <h1 align="center">Hi 👋, I'm Kirtikesh Bhoyar </h1>
 <h3 align="center">🚀 Data Scientist | 💻 SAP-ABAP Developer  | AI/ML Enthusiast | Open Source Contributor</h3>
 
-<h3 align="center">Code with Kittu☺</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Code+with+Kittu+☺" alt="Typing Animation" />
+</p>
 
 <br/>
 <div>
