@@ -87,8 +87,8 @@ A passionate Data Scientist & SAP ABAP Developer focused on building efficient a
 
 | Project | Description | Tech Stack|
 |-------- |-------------|-----------|
-| **Model** | House Price Predection | Python + Machine Learning |
-| **Model** | Car Price Predection | Python + Machine Learning |
+| **Model** | House Price Prediction | Python + Machine Learning |
+| **Model** | Car Price Prediction | Python + Machine Learning |
 | **Model** | AI Content Moderation System| Python + Machine Learning + NLP + Flask + HTML + CSS |
 | **Analysis** | Olympic Data Analysis | Python + Streamlit |
 
