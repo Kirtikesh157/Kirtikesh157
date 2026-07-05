@@ -31,18 +31,15 @@ A passionate Data Scientist & SAP ABAP Developer focused on building efficient a
 
 ---
 
-<h2 align="center">☠️ GitHub Stats ☠️</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; GitHub Intelligence</h2>
+
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kirtikesh157&show_icons=true&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kirtikesh157&show_icons=true&theme=light">
-  <img width="45%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kirtikesh157&show_icons=true">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=kirtikesh157&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=kirtikesh157&theme=light">
-  <img width="48%" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=kirtikesh157">
+  <p align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=kirtikesh157&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=kirtikesh157&theme=dark">
+    <img width="48%" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=kirtikesh157">
+  </p>
 </picture>
 
 ---
@@ -58,30 +55,74 @@ A passionate Data Scientist & SAP ABAP Developer focused on building efficient a
 - ⚡ Fun fact: I love solving problems & explore tech with some chai ☕  
 
 ---
-
 <h2 align="center">🚀 My Tech Stack</h2>
 
-<p align="center">
+<p align="left">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![ABAP](https://img.shields.io/badge/ABAP-Programming-blue?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge)
+<!-- Programming & SAP -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+<img src="https://img.shields.io/badge/ABAP-Programming-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white" />
 
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+<!-- AI & Machine Learning -->
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-00A67E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-GenAI-7B42BC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-FF4B4B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FF7A00?style=for-the-badge" />
+
+<br>
+
+<!-- AI Platforms & APIs -->
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-FF4B4B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-5B21B6?style=for-the-badge" />
+
+<br>
+
+<!-- AI Development -->
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-Agentic%20AI-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector%20Database-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embeddings-3B82F6?style=for-the-badge" />
+
+<br>
+
+<!-- Data Visualization -->
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+<br>
+
+<!-- Web Technologies -->
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+
+<br>
+
+<!-- Development Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
 
 </p>
-
 ---
 
 <h2 align="center"> 📂 Featured Projects</h2>
