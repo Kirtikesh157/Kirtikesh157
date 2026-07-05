@@ -87,9 +87,11 @@ A passionate Data Scientist & SAP ABAP Developer focused on building efficient a
 
 | Project | Description | Tech Stack|
 |-------- |-------------|-----------|
+| **Model** | Prompt Assistant | Python + Streamlit + google-genai + Prompt Engineering|
+| **Model** | NLP-Text-Processing-IMDB-Dataset | Python + Machine Learning + NLP|
+| **Model** | AI Content Moderation System| Python + Machine Learning + NLP + Flask + HTML + CSS |
 | **Model** | House Price Prediction | Python + Machine Learning |
 | **Model** | Car Price Prediction | Python + Machine Learning |
-| **Model** | AI Content Moderation System| Python + Machine Learning + NLP + Flask + HTML + CSS |
 | **Analysis** | Olympic Data Analysis | Python + Streamlit |
 
 ---
