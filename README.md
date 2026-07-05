@@ -1,4 +1,5 @@
-[![kittu-banner-3264x539-high.jpg](https://i.postimg.cc/kX7QMRTJ/kittu-banner-3264x539-high.jpg)](https://postimg.cc/9zNRJ03K)
+
+[![Gemini-linkdin-banner.png](https://i.postimg.cc/9MQB6zw3/Gemini-linkdin-banner.png)](https://postimg.cc/2qgvvkxT)
 <!-- Profile README for Kirtikesh Bhoyar -->
 
 <h1 align="center">Hi 👋, I'm Kirtikesh Bhoyar </h1>
